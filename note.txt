@@ -16,3 +16,8 @@ How to save after adding some text in sublime
 On mac Command + S
 On windows Control + S
 Or click on File -->
+
+We do not have to push one commit at at time
+
+You can push multiple commits in one shot
+there is no limit 
