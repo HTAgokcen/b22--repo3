@@ -3,3 +3,10 @@ Few things happned:
 1. It automatically created new Remote Repo under your Git.Hub.com account.
 Made the connection with your local git repo
 added all your comment
+
+now our work will cinue locally
+
+1. add a new file called note.txt
+2. commited the change to local repo
+3. we want this change to be reflected in remote repository so We PUSHED local commits to remote repository using push origin button
+4. Observe it has beed added in your repository inder GitHub.com
