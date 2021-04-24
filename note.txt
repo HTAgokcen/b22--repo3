@@ -1,0 +1,5 @@
+We just published our locak git repo to remote GitHub.com repostory
+Few things happned:
+1. It automatically created new Remote Repo under your Git.Hub.com account.
+Made the connection with your local git repo
+added all your comment
